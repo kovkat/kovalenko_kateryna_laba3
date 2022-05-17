@@ -1,8 +1,7 @@
-﻿using System;
+using System;
 using System.Linq;
 //Переставте сусідні елементи списку. Якщо елементів непарне число, то останній
 //елемент залишається на своєму місці.
-
 namespace laba3._1
 {
     class Program
